@@ -187,5 +187,3 @@ The development server will start and you can access your WebAssembly applicatio
 
 ![Game of Life Demo](img/wasm-game-of-life.png)
 
-<!-- Alternative way with more control over size -->
-<img src="img/wasm-game-of-life.png" alt="Game of Life Demo" width="600"/>
